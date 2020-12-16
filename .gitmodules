@@ -1,0 +1,6 @@
+[submodule "pcgs_scraper"]
+	path = pcgs_scraper
+	url = git@github.com:ryanamannion/pcgs_scraper.git
+[submodule "makecents"]
+	path = makecents
+	url = git@github.com:ryanamannion/makecents.git
