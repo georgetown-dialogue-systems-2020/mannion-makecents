@@ -8,7 +8,7 @@ updated to the latest commit at the time of submission, and wont update unless I
 
 Click on the makecents submodule above and clone it, follow the directions in the README
 
-Both repos have an `Issues` tab detailing known bugs and projects I would like to improve on.
+Both repos have an `Issues` tab detailing known bugs and projects I would like to improve on, linked below
 
 ## MakeCents submodule
 
@@ -19,8 +19,12 @@ few shell scripts to make it easier to run.
 * `latest-release` handles downloading the latest tarball for pcgs_scraper
 * `makecents-test` handles launching the actions server and rasa x, as well as killing the processes afterwards
 
+[**Issues**](https://github.com/ryanamannion/makecents/issues)
+
 ## PCGS Scraper submodule
 
 The pscgs_scraper submodule was built from the ground up to scrape and store data on coin desriptions and prices. It is not necessary to clone and install
 it for the purposes of grading, and running it to get all the information necessary to run MakeCents takes upwards of 24 hours, so I have supplied the
 data in the MakeCents repo
+
+[**Issues**](https://github.com/ryanamannion/pcgs_scraper/issues)
