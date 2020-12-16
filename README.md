@@ -1,8 +1,7 @@
 # mannion-makecents
 Repo to collect all data for MakeCents and affiliated git repos and data
 
-The purpose of using submodules is to freeze the repos at the time of submission, but to allow me to continue to work on them. The repos here will be 
-updated to the latest commit at the time of submission, and wont update unless I push the latest commits to them.
+The purpose of using submodules is to (1) allow the main repos to be in my name, since I would like to keep working on them, and (2) to freeze the repos at the time of submission. The repos here will be updated to the latest commit at the time of submission, and wont update unless I push the latest commits to them.
 
 ## How to test MakeCents for grading purposes
 
