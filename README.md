@@ -15,7 +15,7 @@ The MakeCents submodule contains all files necessary for running and testing Mak
 look at the submodule or navigate to [the MakeCents repo](https://github.com/ryanamannion/makecents) for instructions on configuring your environment and
 testing MakeCents. Since MakeCents relies on a number of different packages, including `pcgs_scraper` (which I have not yet released on PyPi), I made a
 few shell scripts to make it easier to run.
-* `latest-release` handles downloading the latest tarball for pcgs_scraper
+* `makecents-setup` handles downloading the latest tarball for pcgs_scraper and installing the correct versions of rasa
 * `makecents-test` handles launching the actions server and rasa x, as well as killing the processes afterwards
 
 [**Issues**](https://github.com/ryanamannion/makecents/issues)
